@@ -1,4 +1,4 @@
-# Ducky-Credential-Harvester
+## Ducky-Credential-Harvester
 Short credential harvester for the USB-Rubber-Ducky (Hak5). Requires the Twin-Duck Firmware flashed on it.
 TwinDuck: is a Firmware to be flashed on the Ducky via Arduino IDE, wich enables HID and Flashdrive regisstration on the Ducky
 
